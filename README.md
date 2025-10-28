@@ -19,7 +19,6 @@ A modern, feature-rich mobile application for discovering and exploring movies b
 - [Project Structure](#project-structure)
 - [Technology Stack](#technology-stack)
 - [API Integration](#api-integration)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -249,8 +248,6 @@ The app uses custom hooks in [`hooks/useFetchMovies.ts`](hooks/useFetchMovies.ts
 - `useFetchMovies`: Specific hook for fetching movies with pagination support
 - `usePaginatedFetch`: Hook for paginated data fetching
 - `useInfiniteMovies`: Hook for infinite scrolling with debounced search
-
-## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
