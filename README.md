@@ -36,8 +36,26 @@ A modern, feature-rich mobile application for discovering and exploring movies b
 
 ## Screenshots
 
+### Home Screen - Trending Movies
+
 <div align="center">
-  <img src="assets/images/highlight.png" alt="MovieApp Screenshot" width="300"/>
+  <img src="assets/screenshots/Landing.png" alt="Home Screen showing trending movies" width="300"/>
+</div>
+
+<br>
+
+### Home Screen - Popular Movies Grid
+
+<div align="center">
+  <img src="assets/screenshots/Landing2.png" alt="Home Screen showing popular movies grid" width="300"/>
+</div>
+
+<br>
+
+### Search Functionality
+
+<div align="center">
+  <img src="assets/screenshots/Search.png" alt="Search Screen with movie results" width="300"/>
 </div>
 
 ## Installation
